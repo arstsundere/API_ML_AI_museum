@@ -65,4 +65,6 @@ APP的云端服务器内储存了该博物馆的所有展品图片及信息，�
 
 ### 产品原型
 
+[产品原型预览链接](http://nfunm078.gitee.io/museumrp)
+
 ![原型预览图片](Untitled.png)
